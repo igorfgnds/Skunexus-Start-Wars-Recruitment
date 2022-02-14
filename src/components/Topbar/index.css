@@ -1,0 +1,12 @@
+.title {
+  color: #fff;
+  padding: 10px;
+  font-weight: 700;
+  text-decoration: none;
+  display: block;
+  margin: auto;
+}
+
+.title:hover {
+  color: #fff;
+}

@@ -1,0 +1,11 @@
+.text-right {
+  text-align: right !important;
+}
+
+.btn {
+  margin-right: 5px;
+}
+
+td {
+  font-size: 0.875rem;
+}
